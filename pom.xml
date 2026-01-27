@@ -97,7 +97,7 @@
         <build.ui.skip>true</build.ui.skip>
         <build.plugins.skip>false</build.plugins.skip>
         <build.assembly.skip>true</build.assembly.skip>
-        <spotless.skip>false</spotless.skip>
+        <spotless.skip>true</spotless.skip>
         <maven.deploy.skip>true</maven.deploy.skip>
         <analyze.skip>false</analyze.skip>
 
